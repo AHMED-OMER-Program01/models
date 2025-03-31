@@ -12,3 +12,8 @@ Models ( so ) far;;;
         CREDITS go to [ Joff 3D ] on www.fab.com;
         specific link;;
         https://www.fab.com/listings/0d2552d5-7340-4a19-b3e3-bfc4d3d7e477](https://www.fab.com/listings/8145184b-1bd0-40e8-a9c7-2dd3cf0ab4f5
+    
+  - Zombie Number 9 - Animated
+        CREDITS go to [ Tony Flanagan ] on www.fab.com;
+        specific link;;
+        [https://www.fab.com/listings/0d2552d5-7340-4a19-b3e3-bfc4d3d7e477](https://www.fab.com/listings/8145184b-1bd0-40e8-a9c7-2dd3cf0ab4f5](https://www.fab.com/listings/372c8bf9-5cca-49c4-adb2-85fa86846e33)
