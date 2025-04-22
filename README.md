@@ -17,3 +17,8 @@ Models ( so ) far;;;
         CREDITS go to [ Tony Flanagan ] on www.fab.com;
         specific link;;
         https://www.fab.com/listings/372c8bf9-5cca-49c4-adb2-85fa86846e33
+
+  - Lovely Town
+        CREDITS go to [ Sebastian Sosnowski ] on www.fab.com;
+        specific link;;
+        https://www.fab.com/listings/4af37406-3d8d-4d8b-9c44-5ba7d1b4bfc3
