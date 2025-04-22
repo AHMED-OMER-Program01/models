@@ -22,3 +22,8 @@ Models ( so ) far;;;
         CREDITS go to [ Sebastian Sosnowski ] on www.fab.com;
         specific link;;
         https://www.fab.com/listings/4af37406-3d8d-4d8b-9c44-5ba7d1b4bfc3
+
+  - Creature Box Squid
+        CREDITS go to [ NatalieDesign ] on www.fab.com;
+        specific link;;
+        https://www.fab.com/listings/8e0d02ec-7d41-4318-a19d-f9c5518b9dac
