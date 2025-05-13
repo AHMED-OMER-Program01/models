@@ -27,3 +27,8 @@ Models ( so ) far;;;
         CREDITS go to [ NatalieDesign ] on www.fab.com;
         specific link;;
         https://www.fab.com/listings/8e0d02ec-7d41-4318-a19d-f9c5518b9dac
+
+  - cc0-balloon
+        CREDITS go to [ plaggy ] on www.fab.com;
+        specific link;;
+        https://www.fab.com/listings/44753a13-5c8b-4e16-a50b-3ada3adb6a4b
