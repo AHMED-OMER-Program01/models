@@ -32,3 +32,8 @@ Models ( so ) far;;;
         CREDITS go to [ plaggy ] on www.fab.com;
         specific link;;
         https://www.fab.com/listings/44753a13-5c8b-4e16-a50b-3ada3adb6a4b
+
+  - Boombox Dirty Low-Poly
+        CREDITS go to [ Arghya Samanta ] on www.fab.com;
+        specific link;;
+        https://www.fab.com/listings/24932687-07af-4084-885c-39a8f4e7a19c
