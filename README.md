@@ -1,6 +1,6 @@
 # models
 Just a place to link to models from, online
-As far as (I'm) aware, every model I list here is creatives commons license. If ever shown/proven wrong, please alert me!
+As far as (I'm) aware, every model I list in this first list is creatives commons license. If ever shown/proven wrong, please alert me!
 
 Models ( so ) far;;;
   -  Wine bottle
@@ -37,3 +37,14 @@ Models ( so ) far;;;
         CREDITS go to [ Arghya Samanta ] on www.fab.com;
         specific link;;
         https://www.fab.com/listings/24932687-07af-4084-885c-39a8f4e7a19c
+
+
+# models
+Just a place to link to models from, online
+MODELS BELOW ARE JUST, STRAIGHT UP NOT CREATIVES COMMONS ( lol );;
+
+  - Within the "Moon" subfolder;
+        THE MOON from MAJORA'S MASK
+	Taken specifically from;;;
+	https://www.models-resource.com/3ds/thelegendofzeldamajorasmask3d/model/12394/
+	A wonderful website!
